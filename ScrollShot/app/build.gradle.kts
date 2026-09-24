@@ -7,7 +7,7 @@ android {
     compileSdk = 34
     defaultConfig {
         applicationId = "com.scrollshot.app"
-        minSdk = 30          // AccessibilityService.takeScreenshot needs Android 11+
+        minSdk = 30
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
