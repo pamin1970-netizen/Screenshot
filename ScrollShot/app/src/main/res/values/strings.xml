@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrollShot</string>
+    <string name="service_desc">Shows a floating button that captures a long scrolling screenshot and sends it to DeepSeek.</string>
+</resources>
